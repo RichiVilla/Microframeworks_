@@ -11,14 +11,14 @@ Para esto es necesario tener:
 __<h2> Instalación </h2>__
 Para poder ejecutar lo presentado hay que:
 1. Clonar el repositorio
-> 
+> git clone https://github.com/RichiVilla/Microframeworks_.git
 2. Navegar al proyecto
->
+> cd Microframeworks_
 3. Hacer el build del proyecto con Maven o ver si tenemos alguna versión instalada
 > mvn clean install
 > mvn -v
 4. Correr la aplicación
-> 
+> java -cp target/lab2-app-1.0-SNAPSHOT.jar edu.escuelaing.arem.ASE.app.App
 5. Poder acceder al servidor por medio de un navegador web
 > http://localhost:8080
 
@@ -31,11 +31,6 @@ Para acceder a la aplicación se puede hacer de la siguiente forma:
 >http://localhost:8080/index.html
 
 Dentro de ella se ofrecen los servicios de dar la bienvenida al usuario por medio de un geet request y de poder visualizar el valor del número Pi
-
-__<h2> Prototipo de la Arquitectura </h2>__
->
-
-
 
 __<h2> Visualización de la App </h2>__
 
