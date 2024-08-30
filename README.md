@@ -18,7 +18,7 @@ Para poder ejecutar lo presentado hay que:
 > mvn clean install
 > mvn -v
 4. Correr la aplicación
-> java -cp target/lab2-app-1.0-SNAPSHOT.jar edu.escuelaing.arem.ASE.app.App
+> java -cp target/MicroframeworksWEB-app-1.0-SNAPSHOT.jar edu.escuelaing.arem.ASE.app.App
 5. Poder acceder al servidor por medio de un navegador web
 > http://localhost:8080
 
