@@ -40,15 +40,22 @@ __<h2> Prototipo de la Arquitectura </h2>__
 __<h2> Visualización de la App </h2>__
 
 ![img_2.png](images/img_2.png)
+
 *Visualización cuando se entra*
+
 --------------
 
 ![img_1.png](images/img_1.png)
+
 *Visualización al ejecutar los servicios*
+
 --------------
 
 
 ![img_3.png](images/img_3.png)
+
 ![img_4.png](images/img_4.png)
+
 ![img_5.png](images/img_5.png)
+
 *Prueba de los servicios*
